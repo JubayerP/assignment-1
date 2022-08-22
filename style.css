@@ -52,3 +52,60 @@ body{
     border-radius: 5px;
     cursor: pointer;
 }
+
+#donate-today{
+    margin: 100px 0;
+}
+.donate-now-heading{
+    font-size: 45px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #121212;
+}
+.donate-now-desc{
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 50px;
+    color: #707070;
+}
+.ammount-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+.ammount{
+    padding: 40px 40px;
+    background-color: #FAFAFA;
+    color: #707070;
+}
+.color-ammount{
+    padding: 40px 40px;
+    background-color: #FFEEEE;
+    color: #FF5959;
+    border: 2px solid #FF5959;
+}
+.form-container{
+    position: relative;
+}
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form input{
+    font-size: 18px;
+    margin-bottom: 10px;
+    border: 0;
+    outline: none;
+}
+hr{
+    color: #DADADA;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.btn{
+    position: absolute;
+    left: 45%;
+}
