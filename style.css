@@ -168,6 +168,26 @@ hr{
     line-height: 24px;
 }
 
+#our-foundations{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.part-1{
+    margin-left: 50px;
+}
+.part-1 h1{
+    font-size: 40px;
+    margin-bottom: 30px;
+    color: #121212;
+}
+.part-1 p{
+    font-size: 20px;
+    line-height: 32px;
+    margin-bottom: 50px;
+}
+
 #my-updates{
     margin-bottom: 130px;
 }
