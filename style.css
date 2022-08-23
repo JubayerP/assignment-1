@@ -226,6 +226,7 @@ hr{
     width: 275px;
     outline: none;
     border: 0;
+    border-radius: 5px 0 0 5px;
     padding: 14px 0 14px 17px;
     font-size: 16px;
     background-color: rgba(217, 217, 217, 1);
