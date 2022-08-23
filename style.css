@@ -57,6 +57,7 @@ body{
 
 #donate-today{
     margin: 100px 0;
+    position: relative;
 }
 .donate-now-heading{
     font-size: 45px;
@@ -88,7 +89,8 @@ body{
     border: 2px solid #FF5959;
 }
 .form-container{
-    position: relative;
+    /* position: absolute; */
+    margin-bottom: 200px;
 }
 form{
     display: flex;
@@ -108,8 +110,8 @@ hr{
     margin-bottom: 30px;
 }
 .btn{
-    /* position: absolute; */
-    /* left: 45%; */
+    position: absolute;
+    left: 45%;
 }
 
 #donate-plan{
