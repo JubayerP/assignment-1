@@ -164,3 +164,58 @@ hr{
     color: #707070;
     line-height: 24px;
 }
+
+#my-updates{
+    margin-bottom: 130px;
+}
+.updates-header{
+    margin-bottom: 50px;
+}
+.updates-header h1{
+    font-size: 45px;
+    color: rgba(18, 18, 18, 1);
+    margin-bottom: 20px;
+    text-align: center;
+}
+.updates-header p{
+    color: rgba(112, 112, 112, 1);
+    font-size: 18px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.subscribe-container{
+    width: 809px;
+    height: 200px;
+    background-color: rgba(255, 244, 214, 1);
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.email-btn{
+    position: absolute;
+    left: 25%;
+}
+.email-btn input{
+    height: 48px;
+    width: 275px;
+    outline: none;
+    border: 0;
+    padding: 14px 0 14px 17px;
+    font-size: 16px;
+    background-color: rgba(217, 217, 217, 1);
+}
+.subscribe-btn{
+    background-color: rgba(255, 89, 89, 1);
+    border-radius: 0 5px 5px 0;
+    height: 48px;
+    width: 157px;
+    border: 0;
+    outline: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    position: absolute;
+}
